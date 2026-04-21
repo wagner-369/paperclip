@@ -428,6 +428,13 @@
       "when": 1776717606743,
       "tag": "0060_orange_annihilus",
       "breakpoints": true
+    },
+    {
+      "idx": 61,
+      "version": "7",
+      "when": 1776785879552,
+      "tag": "0061_harsh_major_mapleleaf",
+      "breakpoints": true
     }
   ]
 }
